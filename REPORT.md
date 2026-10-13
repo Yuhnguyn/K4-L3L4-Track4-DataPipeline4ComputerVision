@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Họ và tên | Yuhnguyn |
+| Họ và tên | Nguyễn Phúc Huy |
 | MSSV (đúng bằng `LAB_STUDENT_ID` trong `.env`) | 2A202602911 |
 | GitHub | Yuhnguyn |
 | Trip dùng cho bài tập sập và chạy lại (xem GUIDE, bước 5) | trip-06570 |
